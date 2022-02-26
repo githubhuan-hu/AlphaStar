@@ -1,0 +1,12 @@
+.idea
+*.egg-info
+*.pth
+*.pyc
+experiments
+user_config.yaml
+replays
+replay_results
+results
+tb_stat
+tmp_files
+tmp_log
